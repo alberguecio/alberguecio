@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alberguecio&label=Profile%20views&color=0e75b6&style=flat" alt="alberguecio" /> </p>
 
-- 🔭 I’m currently working on **CRIALtech**
+- 🔭 I’m currently CEO - Developer Full Stack on **CRIALtech**
 
 - 🌱 I’m currently learning **Application Development Full Stack JavaScript**
 
